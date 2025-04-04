@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+$RECYCLE.BIN
+
 # Distribution / packaging
 .Python
 build/
